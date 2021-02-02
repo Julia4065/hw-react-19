@@ -1,0 +1,180 @@
+#email {
+    color: white;
+    background-color: black;
+    width: 90%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border: 1px solid rgb(201, 198, 198);
+    border-radius: 4px;
+}
+
+#email-red {
+    color: white;
+    background-color: black;
+    width: 90%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border: 3px solid rgb(206, 25, 25);
+    border-radius: 4px;
+}
+
+#email-green {
+    color: white;
+    background-color: black;
+    width: 90%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border: 3px solid rgb(45, 153, 77);
+    border-radius: 4px;
+}
+
+/* input[type=text]:focus{
+    outline: 2px solid orange; 
+  } */
+
+#email-for-sign-up {
+    color: white;
+    background-color: black;
+    width: 90%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(201, 198, 198);
+    border-radius: 4px;
+}
+
+#email-for-sign-up-red {
+    color: white;
+    background-color: black;
+    width: 90%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    border: 3px solid rgb(206, 25, 25);
+    border-radius: 4px;
+}
+
+#email-for-sign-up-green {
+    color: white;
+    background-color: black;
+    width: 90%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    border: 3px solid rgb(45, 153, 77);
+    border-radius: 4px;
+}
+
+#password {
+    color: white;
+    background-color: black;
+    width: 90%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(201, 198, 198);
+    border-radius: 4px;
+}
+
+#password-green {
+    color: white;
+    background-color: black;
+    width: 90%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    border: 3px solid rgb(45, 153, 77);
+    border-radius: 4px;
+}
+
+#password-red {
+    color: white;
+    background-color: black;
+    width: 90%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    border: 3px solid rgb(206, 25, 25);
+    border-radius: 4px;
+}
+
+#firstName {
+    color: white;
+    background-color: black;
+    width: 75%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-top: 40px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(201, 198, 198);
+    border-radius: 4px;
+}
+
+#firstName-red {
+    color: white;
+    background-color: black;
+    width: 75%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-top: 40px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    border: 3px solid rgb(206, 25, 25);
+    border-radius: 4px;
+}
+
+#firstName-green {
+    color: white;
+    background-color: black;
+    width: 75%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-top: 40px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    border: 3px solid rgb(45, 153, 77);
+    border-radius: 4px;
+}
+
+#lastName {
+    color: white;
+    background-color: black;
+    width: 75%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(201, 198, 198);
+    border-radius: 4px;
+}
+
+#lastName-red {
+    color: white;
+    background-color: black;
+    width: 75%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border: 3px solid rgb(206, 25, 25);
+    border-radius: 4px;
+}
+
+#lastName-green {
+    color: white;
+    background-color: black;
+    width: 75%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border: 3px solid rgb(45, 153, 77);
+    border-radius: 4px;
+}

@@ -1,0 +1,45 @@
+.sign-in {
+    color: black;
+    background-color: rgb(59, 190, 241);
+    font-size: 16px;
+    margin: 10px;
+    padding: 5px 20px;
+    border: 2px solid;
+    cursor: pointer;
+    width: 330px;
+    border-radius: 4px;
+ }
+ 
+ .sign-up {
+  color: black;
+  background-color: rgb(59, 190, 241);
+  font-size: 16px;
+  margin: 10px;
+  padding: 5px 20px;
+  border: 2px solid;
+  cursor: pointer;
+  width: 330px;
+  border-radius: 4px;
+ }
+
+ .one, .two {
+   padding: 0;
+   border: none;
+   background: none;
+   color:  rgb(59, 190, 241);
+   margin: 15px;
+   font-size: 12px;
+   cursor: pointer;
+ }
+
+ .three {
+  padding: 0;
+  border: none;
+  background: none;
+  color:  rgb(59, 190, 241);
+  margin: 15px;
+  font-size: 12px;
+  cursor: pointer;
+  position:relative; 
+  left:140px; 
+ }
